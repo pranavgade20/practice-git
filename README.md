@@ -16,11 +16,11 @@ Pull requests allow you to suggest certain changes you have made to the main rep
 
 Start by editing the following line:
 
-- [ ] git is awesome!
+- [✔] git is awesome!
 
 Check the box saying git is awesome. You can do this **in the browser** by clicking on this file name(README.md) in the code explorer, and then clicking the edit button(little pencil icon). See [this](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-your-repository) if you are having trouble with this step.
 
-Then, change the `[ ]` in the line above to `[x]`. You can then save the changes to your repository by clicking the commit changes button. Optionally, you can specify a commit message to describe the changes you made.
+Then, change the `[ x ]` in the line above to `[x]`. You can then save the changes to your repository by clicking the commit changes button. Optionally, you can specify a commit message to describe the changes you made.
 
 After you have commited the changes, you can [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Go to the root of your repository, and you should see a contribute option. Open a pull request, and allow edits from maintaners.
 
