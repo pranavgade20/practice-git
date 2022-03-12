@@ -33,7 +33,7 @@ To start, make sure you are in the `branching` branch. Then, you can simply `git
 
 However, scenarios like merging `hello_git` into the new `branching` are far more common. Here, `branching` has newer commits(adding hello_world), and hello_git has newer commits(adding hello_git). So, we say that the branches have *diverged*. In this case, merging is slightly trickier.
 
-After making sure that you are on `master`, `git merge hello_git` to merge the branch into master. Git is pretty smart, and will see that since you have modified different files, you can simply copy both in the same folder. Merging changes made in the same file is sometimes trickier, and we'll practice this more complicated scenario later.
+After making sure that you are on `branching`, `git merge hello_git` to merge the branch into `branching`. Git is pretty smart, and will see that since you have modified different files, you can simply copy both in the same folder. Merging changes made in the same file is sometimes trickier, and we'll practice this more complicated scenario later.
 
 You will have to specify a commit message to describe this merge, and you are done!
 
