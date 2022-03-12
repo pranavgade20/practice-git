@@ -10,7 +10,7 @@ To start, switch to the master branch(`git switch master`) and create a new bran
 
 To go to a previous commit, we can `git checkout <commit>`. Before we do that, let us try to find a commit to checkout to. `git blame` is very handy in these cases. In particular, we'd like to find that commit that unchecked the following checkbox:
 
-- [ ] git is cool
+- [x] git is cool
 
 And undo it. `git blame TIME_TRAVELLING.md` will show the commit-id which changed the line. We can then copy that commit-id and `git checkout commit-id` to go to that commit. Try looking around to make sure that you have indeed travelled back in time!
 
