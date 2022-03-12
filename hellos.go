@@ -1,5 +1,9 @@
 package main
 import "fmt"
 func main() {
-    fmt.Println("hello, git")
+<<<<<<< HEAD
+    fmt.Println("hello, world")
+=======
+    fmt.Println("Hello, git")
+>>>>>>> hello-git
 }
