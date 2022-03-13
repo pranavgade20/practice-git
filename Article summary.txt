@@ -1,37 +1,23 @@
-this artile will help you how to think and start contributing in open 
-source project(osp) . if u think for contibution than that will help you to improve 
-your skills and public demonstration and help you to getting a good 
-job.
-Be kind for all the people who help you to find bugs . if there solution 
-are not good than we ans to that person in positive manner and support 
+This article will help you how to think and start contributing in open Source project (osp) . If u think for contribution than that will help you to improve 
+your skills and public demonstration and help you to getting a good job.
+
+Be kind for all the people who help you to find bugs . If there solution are not good than we answer to that person in positive manner and support 
 her and gives a path to improve her solution.
-In osp we never judge a person by there gender,age,language,
-and experinces etc. Be aware that there are rules in place in 
-any good OSP to protect its contributors against being made to
- feel uncomfortable while contributing. 
-Choose effective contribution so if u go 
-with labels  that will help u to familier with project and help u manage
-time and startegy.Everyone wants to update in our project so no 
+In OSPs we never judge a person by there gender ,age, language, and experiences etc. Be aware that there are rules in place in 
+any good OSP to protect its contributors against being made to feel uncomfortable while contributing. 
+Choose effective contribution so if u go  with labels  that will help u to familiar  with project and help you manage time and strategy . Everyone wants to update in our project so no 
 matter your fix small or large if your fix is productive and creative. 
 
-Most important thing is read README.md file carefully that file 
-provide all information about project Although if you are not understand
-project than you ask for help. if you want to ask general questions, 
-then always  use channels. Don't just file an issue on
+Most important thing is read README.md file carefully that file provide all information about project Although if you are not understand
+project than you ask for help. if you want to ask general questions, then always  use channels. Don't just file an issue on
  GitHub for every question, as it adds noise to the project.
 
-some of the points keep in your mind thats help you to built 
-a good relations for contributors like
-  Discuss one topic per issue , Fix one issue per PR , 
-  Contribute to other threads , use social app for your simle doubt
-and read manual before asking . 
-OSPs are quite democratic- you need to respect and accept 
-everyone decisions.
-Be also aware for that many people working on
- OSPs are doing it in their free time, without payment so 
- If you are waiting for something like a pull request 
+Some of the points keep in your mind that’s  help you to built a good relations for contributors like Discuss one topic per issue , Fix one issue per PR , 
+  Contribute to other threads , use social app for your simple doubt and read manual before asking . 
+OSPs are quite democratic- you need to respect and accept  everyone decisions.
+Be also aware for that many people working on OSPs are doing it in their free time, without payment so If you are waiting for something like a pull request 
 review, or an answer to a question, be patient.
 
 
 
- 
+
