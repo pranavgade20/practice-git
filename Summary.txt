@@ -1,0 +1,18 @@
+Etiquettes for contributing in Open-Source Projects
+
+
+There are a couple of things we should always be thoughtful of while contributing to Open-Source Projects : 
+
+1.) First and foremost, we should keep in mind our purpose behind our decision to contribute. Wanting to help others or demonstrating our skill are some good reasons.
+
+2.) Being kind is also an important thing to remember. Our queries and responses in an Open-Source Project should be polite and respectful.
+
+3.) Our contributions to the project should be productive - such as fixing bugs, issues or documentation. We shouldn't change anything without permission simply based on our own personal preferences.
+
+4.) Reading the documentation is also quite important before contributing since it usually contains the solutions to many common doubts.
+
+5.) We should also try to refrain from adding anything irrelevant or non-productive since it only contributes to incresaing the noise. Some ways to achieve that are discusiing only a single topic in its own issue, making separate PRs for fixing each issue, etc.
+
+6.) If any decision is made in the project (by the moderators or through a vote) that might be against our preference, we should accept it in a mature manner.
+
+7.) Lastly, we should expect others' time and their availability on the given project and not demand very quick replies.
