@@ -1,0 +1,39 @@
+Open Source Etiquettes
+
+Open Source- A community where we Learn, Contribute, Collaborate and Grow Together.
+
+Summary
+1) Basic Human ettiquetes
+
+i) Give the due respect to each person.
+ii) Don't induldge or pick up random arguments instead go for a healthy discussion.
+iii) Be polite with your language.
+iv) Give due credits and special mentions to those who have helped you
+   fix an issue.
+
+2)Before opening a PR
+
+i) Make sure to go through the README.md
+ii) Be clear about the issue you are going to address.
+
+3) After opening a PR
+
+i)  Be patient and wait after opening a PR.
+ii) Respect the schedule of repo owner.
+
+*iii)Always make a different PR for different issues(Shoray Sir)
+*iv) Different issue should be solved through different branches.
+*iv) Always make a pr using #issue no so that it gets linked with issue directly.(Nehal ma'am)
+*v) While editing codes (HTML/CSS) if the desired output is gained by single property avoid using multiple properties.(Nehal ma'am)
+*vi)While solving a issue we often comment and uncomment different parts of code.
+ Make sure to delete these to avoid extra efforts for repo owner and make the work look clean(Nehal ma'am)
+
+4) For Issues
+
+i)  Always be concise and crisp with your tasks.
+ii) Before doing something other than the mentioned issue ask from the owner.
+
+*iii)For codes which have a visual output always submit relevant photos, gifs and videos.(Nehal ma'am)
+*iv) Open source is less of competition and more of collaboration so always try helping others.
+
+POINTS MENTIONED IN * ARE MY LEARNINGS DURING THE FOSS EVENT(Bonus points).
