@@ -1,0 +1,14 @@
+1. Contributing to an open source project for learning and improving skills.
+2. Be polite, be kind, and avoid offensive language. 
+3. Choose to contribute somewhere which is effective and productive.
+4. Whenever you contribute to any OSP read the project's README.md file.
+5. Contribute to other threads if you have a useful point to make or can answer someone else's question.
+6. Fix one issue per PR.
+7. It is useful to get to know any project's moderators, so you know who best to ask for help, for example in pull requests or issue threads
+8. It is NOT reasonable to start demanding things, like a quick reply
+
+EXTRAS-
+
+9. After you have completed work on your contribution, submit it as per the contribution guidelines.
+
+10. If your contribution is rejected, ask for feedback. When reviewers ask questions, make comments, or give feedback, be responsive and check on your work for any updates regularly.
