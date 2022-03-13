@@ -1,0 +1,14 @@
+Summary:-
+->Make your purpose clear of why you want to contribute.
+->be polite, kind and respectful while having a conversation.
+->Avoid off-topic discussions such as politics and religion
+->While doing  contributions remember that every fix is useful
+->Choose a project that u can do in a given time and ask to be assigned
+->Always read the readme file of that OSPs and search for the best place to ask questions
+->Fix one issue per PR
+->Respect people’s time and don’t expect quick reply
+
+Extra points:-
+->Use short but descriptive commit messages
+->Before opening a new issue make sure to check existing ones, so you do not open a duplicate
+->Tag the issue before creating a pull request
