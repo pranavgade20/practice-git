@@ -1,0 +1,13 @@
+There are a few practices to follow while you are contributing to OCPs-
+->Be polite, kind, supportive, and avoid offensive language.
+->Not only fixing the code doesn't come into the contribution you help in fixing typing errors, improving grammar in documentation making them more readable is also considered to be great work 
+-> Always remember every fix is useful how much small they might be.
+->Avoid doing nonproductive changes. For example, changing styles just because you like them, changing unnecessary changes in documentation, etc...
+->Mostly all of the Open source projects have documentation kindly read them and still not clear about your problem do some research yourself so that you could be more independent, build up more knowledge and be less burden to other contributors.
+->Some tips to make the project more productive-
+1)Fix only one issue per pull request.
+2)Contribute to others' threads to discuss if you have a good point to make or answer others' questions.
+3)Try to use chat rooms or forums to discuss or ask simple questions
+4)Always discuss one topic for issue or else it will complicate things.
+->OSPs are democratic as many decisions are voted on, but some things will be decided by a small group of core contributors. You are always free to make a case against any decision but you need respect and accept even though the decision is against your opinion.
+->Always be patient generally all the contributors are busy and they do this in their free time without payment.So be quite patient and again remind them to look into the matter if they conveyed to you that they are busy waiting for a week to follow up again. It is not correct to demand things like a quick reply. If someone is waiting for you to do something for them, you should extend the same courtesy and try to respond as promptly as possible.
