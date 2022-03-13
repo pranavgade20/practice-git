@@ -1,0 +1,23 @@
+Summary of the OSP's by Protyay Mondal LIT51:
+
+You should have a good reason behind contributing to open source projects,even if those are self-serving ones.Neverthless,you are learning
+something from it and that is what is required.
+
+Have a kind tone, avoid using foul language while communicating.You should maintain a level of decency with the persons having greater knolwdge and experience than you.
+
+Do not discriminate ,try to be open-minded towards other contributors.
+
+Do not just unnecessarily contribute, you should think twice whether or not your contribution is effective or not.if you have self-doubts,
+ask other contributors / yourmentors.
+
+Always read the manual yourself before asking doubts.
+
+Ask one question on a topic at a time, without making your conversation chaotic.
+
+Remember OSP's  are democratic, and the decisions maybe  voted out, and which could  any time  go against  your opinion.
+
+
+Other things that have not been mentioned in the article:
+1) Always try your best to contribute to a liitle better issues, even if they feel overwhelming.Only practice hands on can make you better.
+2)When stuck, you can always ask your peers about it.Sometimes mentors or even other contributors may be busy.
+3)Do not panic if you are not being able to solve issues,try gaining more knowlwdge on the topics, once even an expert was a beginner.
