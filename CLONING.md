@@ -1,3 +1,6 @@
+![gitimg](https://user-images.githubusercontent.com/96721856/158071911-2330b22a-5006-4fd1-90d7-8d4b90184c0d.png)
+![gitimg](https://user-images.githubusercontent.com/96721856/158071925-ccdaf644-ddf4-4b4c-b3e2-a805f38b2641.png)
+![gitimg](https://user-images.githubusercontent.com/96721856/158071928-9370f0c8-d8e6-46de-b0c4-d71d6938cf9a.png)
 # Cloning and Pushing
 
 Cloning downloads a repository to your computer, where you can work on it using your favorite tools. After you have made the necessary changes, you can commit and push the changes to the *remote*(i.e., github servers) from your *local*(i.e., your computer).
@@ -41,3 +44,4 @@ Next steps are in BRANCHES.md
 
 
 
+![gitimg](https://user-images.githubusercontent.com/96721856/158071945-76354345-c4cf-4b43-81df-db19233c0217.png)
