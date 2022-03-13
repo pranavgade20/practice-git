@@ -1,0 +1,43 @@
+Basic etiquette for open source projects
+------------------------------------------
+
+Why we want to contribute to an open source project
+1. To fix a bug and want to contribute to make a project better
+2. We want to help other people contribute to the project more successfully.
+3. We want to improvise our skillset.
+
+
+Some Basic etiquettes required are :-
+1. Being polite and kind to others and avoid offensive language.
+2. Thanking people if they help you.
+3. Always responding respectfully to your mentors, even if you feel like the answer to their question was a bit obvious, or that they are repeating themselves.
+4. Never hesitate to ask something, mentors are there to help you.
+5. Help everyone irrespective of their gender, sexuality, experience in open source projects.
+6. Reading the manual and instructions is so underrated.
+7. Discuss one topic per issue — it is easy to keep issues focused and productive.
+---------------------------------------------------
+
+Why choosing the effective contributions is so important.
+1. Help to improve grammar and make pages more understandable.
+2. Help to mentor people that are trying to make fixes.
+
+Dont' s -X
+1. Don't try to show off your knowledge, instead help others contributing.
+2. Never ever make fun of anybody during the project contributions.
+
+
+
+MY PERSONAL EXPERIENCE DURING FOSS.
+1. It provided me a great platform to improve my skillset and contribute to projects.
+2. I developed a habit of helping others who are facing difficulties, which I also inculcated in my real life.
+3. The LEADERBOARD really helped me to motivate myself :)
+
+Really glad that I didn't missed this FOSS weekend 
+
+
+
+
+ 
+
+
+
