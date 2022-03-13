@@ -1,0 +1,12 @@
+This article talks about basic etiquettes which helps in gaining insight into github as a platform and also how we can contribute to it and our growth.
+
+"Your presence on the project should be productive, and it shouldn't stop others from being so too."
+One of the best thing about it is its anonymity. You can't make assumptions about anyone here whether its their gender, age etc. Above all we should be polite and treat everyone with respect or we might face warning.
+
+We can try and fix many kinds of issues we come across but it is always encouraged that we try to be productive with them.
+"Make progress, Not noice"
+
+Keep your words clear and concise and keep your questions to the point.
+In the end, it's a community of people and they might make some decisions you don't fully agree with but you need to learn to accept it. Be polite and considerate and you are good to go.
+
+Something I would like to add to it would be to not get discouraged early in the journey as it might be overwhelming but you will soon get the hang of it.
