@@ -30,7 +30,7 @@ If you'd like to see the current status of the repository, you can `git status`.
 To see the changes you will be committing, you can run `git diff` and/or `git diff --staged`. The first command shows the changes if the file isn't added to the staging area with `git add`. The second shows the difference in the staging area.
 
 ## Pushing
-
+(cloned and pushed)
 Finally, `git push` to push the changes to the remote. Assuming you have completed the setup properly, this step should be seamless.
 
 After the changes are pushed, you can create a PR to the original repository, just like the last time.
