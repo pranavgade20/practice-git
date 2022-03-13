@@ -1,0 +1,7 @@
+1) Think about why you are contributing to an OSP in a positive way. You should be thankful as contributing to it will give you a lot of knowledge and exposure.
+2) Be polite, be kind and avoid any kind of offensive language / statements.
+3) Choose the issues you can solve confidently. Start with labels like "good first issue" as they are quite simple and good for beginners to get started with.
+4) Always read the README file which contains the information about the project and how you are going to proceed.
+5) Dont start discussing off topic things or asking too many questions which would waste the time of contributors, instead keep the discussion to the point and meaningful.
+6) Fix one issue per PR. Don't Complicate issues by trying to discuss multiple topics at once.
+7) Respect the work of people contributing to the OSP and try to praise them if you like their work.
