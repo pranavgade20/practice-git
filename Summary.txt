@@ -1,0 +1,43 @@
+Basic etiquette for open source projects
+----------------------------------------
+
+1. Why we want to contribute to Open source : 
+        - fix a bug & make software better
+        - help others who use the tool to have better experience
+        - improve skill in a particular topic
+        - publicly demonstrate skills by contributing ( a. part of course, b. to enhance own for a job )
+
+        NOTE - One should not contribute to troll/boss around or show off how amazing that person is.
+
+2. The maintainers :
+        - Use proper labels to guide people to issues
+        - describe the issues properly so that it is understandable even as a beginner
+        - write a comment explaining the reason if one is closing a PR and decide not to merge
+        - ensure to enforce the code of conduct properly
+        
+
+3. As a user :
+        - Thank people if they help you, Congratulate people when necessary, respond respectfully to people
+        - Choose effective contributions like triage issues, fix code, debug errors, mentor people that are trying to make fixes
+        - Read the manual and understande the project as well as the issues - feel free to ask for help and Always try to build up knowledge of the project
+        - Make progress, not noise  make sure a fix is useful, and that it doesn't make other contributor's jobs harder
+                                -> Discuss one topic per issue 
+                                -> Fix one issue per PR 
+                                -> Ask questions using other mechanisms like chat rooms or forums
+                                -> Read the manual properly
+        - Be patient, be timely - PR reviews and issues may take time be patient and try to politely reach out the maintainers as a follow up
+
+
+        Don't:
+        - Complicate issues by trying to discuss multiple topics at once, or making off-topic comments.
+        - Try to cram multiple fixes into a single pull request. It makes it a lot harder to review, and raises suspicions (some people might think you are trying to hide some malicious code in between the valid changes).
+        - Open lots of issues asking vague questions.
+        - Ask questions without trying to solve the problem yourself first.
+
+
+
+IMPORTANT POINTS
+----------------
+Open source software is thriving and FOSS is amazing for its ability to bring together many people from all over the world, and join their efforts and skills by their interests
+It is responsibilit of all to make it a better place for everyone by following some simple etiquette
+Be polite, respectful, and kind
