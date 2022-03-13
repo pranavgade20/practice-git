@@ -1,8 +1,14 @@
 A brief idea about Open Source Projects.
-Finding reasons for why we want to contribute for an OSP.
-Do's and Dont's During OSP contribution.
-Code of Conduct in an OSP.
-About how we can contribut effectively.
+Finding reasons for why we want to contribute for an OSP.:
+---reason should be something that is productive and adds to your value.
+Be polite During OSP contribution.:
+---use a good language and appreciate others  if they able to solve an issue.
+Code of Conduct in an OSP.:
+---Be aware of Code of conduct of an OSP.Don't offend anyone and if you feel offended you can report it. 
+About how we can contribute effectively.
+---we can first explore ourselve on our doubts befor asking.
+---if you are a beginner go for good first issue first.
+---Avoid irrelevant contribution
 Do's and Dont's for Progressive contribution rather than adding noise.
 Respect the democracy in OSP's.
 Value of Patience and time.
