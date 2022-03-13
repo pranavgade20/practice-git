@@ -1,0 +1,12 @@
+1. Majorly OS is for learning, gaining experience and helping others.
+2. A kind and supportive behaviour must be maintained. No judgements!
+3. We must thank and congratulate peoples wherever necessary.
+4. Swearing / offensive languages must not be used.
+5. Always read README.md and CONTRIBUTING.md before doing anything.
+6. Fix one issue per PR.
+7. Trying to cram multiple fixes into a single PR might make some people think you are trying to hide some malicious code in between the valid changes!
+8. It is advisable to wait for even a few days for something like a PR reply. Be patient.
+
+// EXTRAS
+9. Only do the required things mentioned in an issue, or atleast ask the mentor before adding anything extra.
+10. Keep your main/master branch synced with main repo and send PRs from subsidiary branches only.
