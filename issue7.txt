@@ -1,0 +1,21 @@
+//OPEN SOURCE ETIQUETTES//
+
+Open-Source provides platform for tech-geeks to grow, learn & show-case their skill while providing a platform to collaborate, communicate and enjoy the process.
+
+1)Be kind,Be Polite and avoid offensive language
+  1.1)Don't use abusive language or degrade anyone on the ground of Gender,        sexuality, age, languages spoken, location, political views, religion, or other personal attributes
+  1.2) Be polite even while closing someone PR and do mention the reason 
+ 
+
+2)User Etiquette
+  2.1)When opening an issue, please suggest a solution to the problem.
+  2.2)Before doing anything on a project, familiarize yourself with the owner's guidelines often found in a README.md file
+  2.3)If you are unable to solve an issue, mention what all you've done and raise an issue for others to contribute.
+  2.4)Always make a different PR for different issue to make it look clean and for the contributor to merge it easily.
+  2.5)If new to open source, help fix grammar,typos, small issues until you make yourself familiar.
+  2.6)Contribue to other threads if you have something to add on
+  2.7)Search first before asking fir help, contributors are generally engrossed with other work too, don't ask irrelevant questions.
+
+///BONUS POINTS///
+  1)If a fight breaks out on an issue that gets personal, shut it down. Lock the issue and follow the code of conduct.
+  2)Give a snippet of what you're about to do in an issue for the owner to take you seriously.
