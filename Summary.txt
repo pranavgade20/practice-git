@@ -1,0 +1,20 @@
+If u have not used this before, This article will be very help full to contribute in open source projects
+
+1. Be kind to different contributors in projects which include helping,congratulating
+    Eg :- "Use This is ok! but I feel some more better " instead "It is wrong"
+2. You should not ask them Confidential or Personal matters.
+3. You need to be respectiful for decisions of others even if u didn't like It
+4. Use good offensive language by not keeping them incomfortable.
+5. Wrong behaviour leads to temporary or permenent banning
+
+6. Assume properly on which topic you want to work and estimate time 
+    "good first issue" is a good tag for beginning
+7. generally a lot of work goes on writing documentation and code
+    Helping in fixing also a good way for contributing
+8. NOTE : Every fix is useful; don't discourage you by thinking in wrong way
+
+9. For document presentation README files are useful
+10. Dont be afraid to ask questions but be reeady to yes for a question "Have u explore on that doubt"
+
+11. Find a proper place to ask questions and ask your generel questions through those channels
+12. Finally Make progress not noice in due to your contribution.
